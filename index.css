@@ -1,0 +1,71 @@
+body{
+    border: 2px solid;
+}
+.header{
+    text-align: center;
+    margin-top: 3rem;
+   line-height: 4rem;
+}
+.header p{
+    font-size: large;
+}
+.main{
+    margin-bottom: 3rem;
+    border: 2px solid;
+}
+.imageDiv{
+    width: 12rem;
+    height: 10rem;
+    border: 2px solid;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+.imageDiv img{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    border-radius: 50%;
+    width: 7rem;
+    height: 7rem;
+    border: 1px solid;
+}
+.field input{
+    width: 10rem;
+}
+.Every{
+    margin-top: 1rem;
+}
+.Every .input{
+    width: 20rem;
+    margin-left: 1rem;
+}
+.Name{
+    
+    width: 11rem;
+}
+#name{
+    padding-left: 7.7rem;
+}
+#email{
+    padding-left: 8rem;
+}
+#phone{
+    padding-left: 5.95rem;
+}
+#numS{
+    padding-left: 2.8rem;
+}
+#numA{
+    padding-left: .5rem;
+}
+.buttons{
+    margin-bottom: 2rem;
+    margin-left: 15rem;
+}
+.btn{
+    width: 20rem;
+}
+.buttons button{
+    border: 1px solid;
+    width: 11rem;
+    margin-top: 2rem;
+}
